@@ -9,3 +9,10 @@ The System Is Implemented Using Python's Web Framework Django.
 My Future Enhancement Would Be 
 1.Email Intrigation.........
 2.Payment Gateway 
+
+
+1: clone project.
+2: pip install requirements.txt
+3: python manage.py makemigrations
+4: python manage.py migrate
+4: python manage.py runserver

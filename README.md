@@ -18,3 +18,8 @@ My Future Enhancement Would Be
 4: python manage.py runserver <br/>
 
 
+Project Output . <br/>
+
+Landing Page : <br/>
+
+![landing page](uploads/Screenshot14.png) <br/>

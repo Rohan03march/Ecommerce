@@ -23,3 +23,16 @@ Project Output . <br/>
 Landing Page : <br/>
 
 ![landing page](uploads/Screenshot14.png) <br/>
+
+SignUp Page: <br/>
+![Signup page](uploads/Screenshot15.png) <br/>
+
+Login Page: <br/>
+![login page](uploads/Screenshot16.png) <br/>
+
+Cart Page: <br/>
+![Cart page](uploads/Screenshot17.png) <br/>
+
+Orders Page: <br/>
+![order page](uploads/Screenshot18.png) 
+

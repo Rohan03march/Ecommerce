@@ -7,12 +7,14 @@ The System Is Implemented Using Python's Web Framework Django.
 
 
 My Future Enhancement Would Be 
-1.Email Intrigation.........
-2.Payment Gateway 
+1.Email Intrigation......... <br/>
+2.Payment Gateway <br/>
 
 
 1: clone project. <br/>
 2: pip install requirements.txt <br/>
 3: python manage.py makemigrations <br/>
 4: python manage.py migrate <br/>
-4: python manage.py runserver
+4: python manage.py runserver <br/>
+
+

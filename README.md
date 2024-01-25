@@ -11,8 +11,8 @@ My Future Enhancement Would Be
 2.Payment Gateway 
 
 
-1: clone project.
-2: pip install requirements.txt
-3: python manage.py makemigrations
-4: python manage.py migrate
+1: clone project. <br/>
+2: pip install requirements.txt <br/>
+3: python manage.py makemigrations <br/>
+4: python manage.py migrate <br/>
 4: python manage.py runserver

@@ -6,33 +6,33 @@ For The Convenience Of Online Shopping,A Shopping Cart Is Provided To The User. 
 The System Is Implemented Using Python's Web Framework Django.
 
 
-My Future Enhancement Would Be 
-1.Email Intrigation......... <br/>
+My Future Enhancement Would Be <br/>
+1.Email Integration <br/>
 2.Payment Gateway <br/>
 
 
-1: clone project. <br/>
-2: pip install requirements.txt <br/>
-3: python manage.py makemigrations <br/>
-4: python manage.py migrate <br/>
-4: python manage.py runserver <br/>
+1: clone project. [git clone https://github.com/Rohan03march/Ecommerce ] <br/>
+2: cd Ecommerce <br/>
+3: pip install requirements.txt <br/>
+4: python manage.py makemigrations <br/>
+5: python manage.py migrate <br/>
+6: python manage.py runserver <br/>
 
 
-Project Output . <br/>
+Project Output :  <br/>
 
-Landing Page : <br/>
-
+1. Home Page : <br/>
 ![landing page](uploads/Screenshot14.png) <br/>
 
-SignUp Page: <br/>
+2. SignUp Page: <br/>
 ![Signup page](uploads/Screenshot15.png) <br/>
 
-Login Page: <br/>
+3. Login Page: <br/>
 ![login page](uploads/Screenshot16.png) <br/>
 
-Cart Page: <br/>
+4. Carts Page: <br/>
 ![Cart page](uploads/Screenshot17.png) <br/>
 
-Orders Page: <br/>
+5. Orders Page: <br/>
 ![order page](uploads/Screenshot18.png) 
 
